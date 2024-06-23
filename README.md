@@ -3,7 +3,7 @@
 Aprendendo a trabalhar com numbers e strings em Python criando um algoritmo de validação conhecido como 'Luhn algorithm', durante o curso Scientific Computing with Python da freecodecamp.org.
 <br>
 <br>
-🗣️ [portuguese](https://github.com/matheuusventura/numbers-and-strings-freecodecamp) - [english](https://github.com/matheuusventura/numbers-and-strings-freecodecamp/blob/master/README-english.md) - [spanish](https://web.whatsapp.com/)
+🗣️ [portuguese](https://github.com/matheuusventura/numbers-and-strings-freecodecamp) - [english](https://github.com/matheuusventura/numbers-and-strings-freecodecamp/blob/master/README-english.md)
 <h3>O que é Algoritmo de Luhn?</h3>
 Algoritmo de Luhn (ou Fórmula de Luhn) é um método simples utilizado para verificar a validade de números de identificação tais como como números de cartões de crédito, números de IMEI de celulares, números de segurança social (em alguns países), entre outros.
 <br>
