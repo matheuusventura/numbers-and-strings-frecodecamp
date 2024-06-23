@@ -3,7 +3,7 @@
 Learning to work with numbers and strings in Python by creating a validation algorithm known as the 'Luhn algorithm' during the Scientific Computing with Python course from freecodecamp.org.
 <br>
 <br>
-🗣️ [portuguese](https://web.whatsapp.com/) - [english](https://web.whatsapp.com/) - [spanish](https://web.whatsapp.com/)
+🗣️ [portuguese](https://github.com/matheuusventura/numbers-and-strings-freecodecamp?tab=readme-ov-file) - [english](https://web.whatsapp.com/) - [spanish](https://web.whatsapp.com/)
 <h3>What is the Luhn Algorithm?</h3>
 The Luhn Algorithm (or Luhn Formula) is a simple method used to verify the validity of identification numbers such as credit card numbers, cell phone IMEI numbers, social security numbers (in some countries), among others.
 <br>
